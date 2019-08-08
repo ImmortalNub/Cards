@@ -1,3 +1,4 @@
+#include "BaseHeader.h"
 #include "Cards.h"
 
 #pragma once
@@ -13,7 +14,6 @@ private:
 	const int SUITS = 4;
 	const int CARD_VALUES = 13;
 
-	// The sum of these two vectors must be 52!!
 	vector<Cards> deck;
 
 	string suits[4]{
