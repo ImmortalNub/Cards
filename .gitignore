@@ -1,0 +1,15 @@
+
+.vs/Cards/v14/.suo
+*.sln
+*.db
+*.opendb
+*.vcxproj
+*.filters
+*.log
+*.obj
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*.exe
+*.ilk
